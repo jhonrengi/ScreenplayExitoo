@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.exito.runners.Runner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-30T03:43:50" hostname="LAPTOP-JDIMLAF1" time="36.678">
+  <properties/>
+  <testcase name="Add products to cart success" classname="com.exito.runners.Runner" time="36.678"/>
+  <system-out><![CDATA[El nombre del producto debe ser:Aire acond 12000 btu 220V SIMPLY TURN ON SYAC12224
+El nombre del producto es:Aire acond 12000 btu 220V SIMPLY TURN ON SYAC12224
+La cantidad del producto debe ser:4.00 un
+La cantidad del producto es:4.00 un
+El nombre del producto debe ser:Ventilador Air Protec Maxx 2en SAMURAI 5861027400
+El nombre del producto es:Ventilador Air Protec Maxx 2en SAMURAI 5861027400
+La cantidad del producto debe ser:2.00 un
+La cantidad del producto es:2.00 un
+El nombre del producto debe ser:Aire Acondicionado 12.000BTU 2 HYUNDAI HY12K229IVGF
+El nombre del producto es:Aire Acondicionado 12.000BTU 2 HYUNDAI HY12K229IVGF
+La cantidad del producto debe ser:2.00 un
+La cantidad del producto es:2.00 un
+El nombre del producto debe ser:Ventilador Super Force Touch SAMURAI VE7731I2
+El nombre del producto es:Ventilador Super Force Touch SAMURAI VE7731I2
+La cantidad del producto debe ser:3.00 un
+La cantidad del producto es:3.00 un
+El nombre del producto debe ser:Aire acon inver 12000 btu 110V SIMPLY TURN ON SYAC12115IV
+El nombre del producto es:Aire acon inver 12000 btu 110V SIMPLY TURN ON SYAC12115IV
+La cantidad del producto debe ser:2.00 un
+La cantidad del producto es:2.00 un
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 36016
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago. 29, 2023 10:43:52 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find CDP implementation matching 116
+ago. 29, 2023 10:43:52 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+ADVERTENCIA: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.7.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
+?[32m?[1m??[0m Activate publishing with one of the following:                                    ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m Disable this message with one of the following:                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+]]></system-err>
+</testsuite>
